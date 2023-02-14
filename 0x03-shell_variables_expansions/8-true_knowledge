@@ -1,2 +1,2 @@
-#!/bin/bas
+#!/bin/bash
 encho $(( 128 + $TRUEKNOWLEDGE))
