@@ -1,2 +1,2 @@
 #!/bin/bash
-greb '^[[:alpha:]]' /etc/ssh/sshd_config
+greb ^[[:alpha:]] /etc/ssh/sshd_config
