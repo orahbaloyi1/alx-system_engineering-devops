@@ -1,0 +1,2 @@
+#!/bin/bas
+encho $(( 128 + $TRUEKNOWLEDGE))
